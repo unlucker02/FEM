@@ -1,0 +1,26 @@
+﻿  mainProg.cpp
+C:\Users\Дмитрий\source\repos\Kursovay\Kursovay\mainProg.cpp(22,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/mainProg.cpp")
+  
+C:\Users\Дмитрий\source\repos\Kursovay\Kursovay\mainProg.cpp(22,39): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/mainProg.cpp")
+  
+C:\Users\Дмитрий\source\repos\Kursovay\Kursovay\mainProg.cpp(47,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/mainProg.cpp")
+  
+C:\Users\Дмитрий\source\repos\Kursovay\Kursovay\mainProg.cpp(47,17): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  (компиляция исходного файла "/mainProg.cpp")
+  
+C:\Users\Дмитрий\source\repos\Kursovay\Kursovay\mainProg.cpp(47,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/mainProg.cpp")
+  
+C:\Users\Дмитрий\source\repos\Kursovay\Kursovay\mainProg.cpp(47,33): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  (компиляция исходного файла "/mainProg.cpp")
+  
+C:\Users\Дмитрий\source\repos\Kursovay\Kursovay\mainProg.cpp(86,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/mainProg.cpp")
+  
+C:\Users\Дмитрий\source\repos\Kursovay\Kursovay\mainProg.cpp(86,16): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  (компиляция исходного файла "/mainProg.cpp")
+  
+  Kursovay.vcxproj -> C:\Users\Дмитрий\source\repos\Kursovay\x64\Debug\Kursovay.exe
